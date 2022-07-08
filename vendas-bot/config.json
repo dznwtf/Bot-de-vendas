@@ -1,0 +1,14 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "BOT_PREFIXO",
+    "accessToken": "ACESSTOKEN_MERCADOPAGO",
+    "mongo_url": "MONGODB_URL",
+    "color": "COR_BOT_EMBEDS",
+    "author": "IMAGEM_EMBEDS_LINK",
+    "owner": "ID_DONO_BOT",
+    "nome": "NOME_BOT",
+    "footer": "RODAPÉ_EMBEDS_BOT",
+    "categoria": "CATEGORIA_CARRINHOS_iD",
+    "logs": "CANAL_LOGS_ID"
+  }
+  
