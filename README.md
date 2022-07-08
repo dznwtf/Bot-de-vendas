@@ -2,7 +2,8 @@
 
 # Configuração
 Abra o config.json
-E coloque de acordo com o que é pedido.
+
+Coloque de acordo com o que é pedido.
 
 # Como pegar o ACESSTOKEN
 [Entre aqui](https://www.mercadopago.com.br/developers/panel/credentials)
