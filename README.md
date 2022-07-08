@@ -15,6 +15,9 @@ Agora você pode clicar em "Credenciais de produção" novamente. Vai aparecer u
 
 # Instalação e Inicialização
 Abra o terminal de comandos e digite
+
 npm i
+
 após isso, digite
+
 node .
