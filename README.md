@@ -6,6 +6,7 @@ E coloque de acordo com o que é pedido.
 
 # Como pegar o ACESSTOKEN
 [Entre aqui](https://www.mercadopago.com.br/developers/panel/credentials)
+
 Crie uma aplicação, deve aparecer algo pra você colocar dados da sua aplicação, pode colocar qualquer coisa. Mas em produtos disponíveis coloque "Outra plataforma".
 Depois Criar Aplicação, depois disso você provavelmente vai ser redirecionado para uma página com "Credenciais", vá em "Credenciais de produção".
 Depois "Ativar credenciais". Em indústria coloque "Outros", e no site é opcional como está escrito. Marque a caixinha e faça o captcha depois clique em "Continuar".
